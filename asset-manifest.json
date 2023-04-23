@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Ruslan-Chulakov/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/Ruslan-Chulakov/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/Ruslan-Chulakov/goit-react-hw-01-components/static/css/main.33a45d98.css",
+    "main.js": "/Ruslan-Chulakov/goit-react-hw-01-components/static/js/main.23f77712.js",
     "index.html": "/Ruslan-Chulakov/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/Ruslan-Chulakov/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Ruslan-Chulakov/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.33a45d98.css.map": "/Ruslan-Chulakov/goit-react-hw-01-components/static/css/main.33a45d98.css.map",
+    "main.23f77712.js.map": "/Ruslan-Chulakov/goit-react-hw-01-components/static/js/main.23f77712.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.33a45d98.css",
+    "static/js/main.23f77712.js"
   ]
 }
