@@ -1,0 +1,30 @@
+.title{
+    text-align: center;
+    padding: 20px;
+}
+
+.statList{
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    padding: 10px;
+}
+
+.item{
+    width: 90px;
+    display: flex;
+    gap: 5px;
+    flex-direction: column;
+    justify-content: center;
+    padding: 15px 10px;
+    border-radius: 20px;
+    align-items: center;
+}
+
+.label{
+    color: rgb(28, 28, 28);
+}
+
+.percentage{
+    font-size: 20px;
+}

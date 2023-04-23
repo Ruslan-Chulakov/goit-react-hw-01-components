@@ -1,0 +1,22 @@
+.item {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 25px;
+
+    width: 250px;
+    height: 80px;
+    
+    background-color: rgba(252, 210, 210, 0.373);
+    border: solid 2px red;
+    border-radius: 10px;
+}
+
+.online {
+    border-color: green;
+    background-color: transparent;
+}
+
+.name {
+    font-size: 24px;
+}
